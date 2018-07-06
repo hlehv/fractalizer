@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+
+.App {
+  text-align: center;
+  display: inline;
+  color: black ;
+  font-family: 'Fira Mono', monospace;
+  font-size: 10px;
+}
+
+
+.color-select{
+  display: inline;
+  margin-left: 400px;
+  padding-top: 80px;
+}
+
+.imagesize{
+  display: inline;
+  margin-left: 400px;
+  padding-top: 80px;
+  font-family: 'Fira Mono', monospace;
+}
